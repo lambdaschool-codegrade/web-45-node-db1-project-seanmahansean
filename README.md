@@ -33,7 +33,7 @@ We have provided some records inside the "accounts" table of the `budget.db3` da
 
 ```js
 npm run resetdb
-```
+``` 
 
 #### Accounts Schema
 
